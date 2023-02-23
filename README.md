@@ -3,12 +3,13 @@ Materiales desarrollados en Garaje Live Coding | MERN Stateless Auth con JWT - F
 
 ## Grabación
 Evento disponible [en Youtube](https://www.youtube.com/watch?v=B5dhMn-v2Sc)
+Esta integración se ha realizado sobre la aplicación MERN desarrollada en el anterior GLC, también disponible [en Youtube](https://www.youtube.com/watch?v=L1TjrOEG-u8)
 
 ## Requerimientos
 Dispositivo con MongoDB y NodeJS instalados
 
 ## Setup
-- Crear una base de datos en MongoDB bajo el nombre `garaje-live-conding` con una colección `coasters` donde importar el archivo `coasters.json`
+- Crear una base de datos en MongoDB bajo el nombre `garaje-live-coding` con una colección `coasters` donde importar el archivo `coasters.json`
 - Levantar la API (directorio `/server`) mediante el comando `node server.js` o `nodemon server.js`
 - Levantar el cliente de React (directorio `/client`) mediante el comando `npm start`
 
